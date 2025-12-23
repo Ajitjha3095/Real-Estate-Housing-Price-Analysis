@@ -1,4 +1,4 @@
-🏠 Housing Market Analysis Dashboard – Portfolio Project
+🏠 Real Estate Housing Price Analysis
 
 This project presents a comprehensive analysis of housing market trends using a real-world dataset from Kaggle. The goal is to create an interactive, insightful dashboard that highlights key performance indicators (KPIs) and visual patterns affecting house prices. Dashboards have been built using Tableau, Power BI, and Looker to demonstrate versatility across BI tools.
 
