@@ -55,15 +55,20 @@ GitHub – repository with docs, dashboards, and visuals
 📍 Housing prices are influenced by structural features and amenities.
 📍 Visual analysis makes complex trends easier to interpret.
 📍 Multiple tools highlight versatility in dashboard creation.
-
-
 Power BI ⚡
+
+
 <img width="740" height="473" alt="image" src="https://github.com/user-attachments/assets/96ad4161-7cb8-404f-9958-5ba63b6264c5" />
 
+
 Tableau 📊
+
 <img width="1081" height="417" alt="image" src="https://github.com/user-attachments/assets/0f897da4-37f3-4d40-be8d-4211caa2db25" />
 
+
 Looker 🔎
+
+
 <img width="814" height="544" alt="image" src="https://github.com/user-attachments/assets/4a2c62e4-614c-48b7-a3ba-706f2026b775" />
 
 
