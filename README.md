@@ -56,7 +56,11 @@ GitHub – repository with docs, dashboards, and visuals
 📍 Visual analysis makes complex trends easier to interpret.
 📍 Multiple tools highlight versatility in dashboard creation.
 
+
+
 Power BI ⚡
+
+
 
 
 
@@ -64,14 +68,22 @@ Power BI ⚡
 <img width="740" height="473" alt="image" src="https://github.com/user-attachments/assets/96ad4161-7cb8-404f-9958-5ba63b6264c5" />
 
 
+
+
 Tableau 📊 : https://public.tableau.com/app/profile/ajit.jha/viz/RealEstateHousingPriceAnalysisDashboard/Dashboard1?publish=yes
+
+
 
 
 
 <img width="1081" height="417" alt="image" src="https://github.com/user-attachments/assets/0f897da4-37f3-4d40-be8d-4211caa2db25" />
 
 
+
+
 Looker 🔎 https://lookerstudio.google.com/s/lGEgi3Ml844
+
+
 
 
 
