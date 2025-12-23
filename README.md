@@ -46,9 +46,18 @@ Power BI – for detailed business insights
 
 Looker – for scalable dashboard exploration
 
-📁 Project Hosting
+🚀 Usage Instructions
 
-GitHub – repository with docs, dashboards, and visuals
+Load the data into your BI tool (Looker / Power BI / Tableau) using the provided dataset.
+
+Navigate through the dashboard pages to view different visualizations.
+
+Use the filter panel to slice the data by Airconditioning,Basement, Prefarea, Furnishingstatus, Guestroom, Mainroad, Hotwaterheating, Bedrooms, Bathrooms
+as needed.
+
+Hover over data points or charts for detailed tooltips / details.
+
+(Optional) Export reports or charts as PDF / image / data (depending on tool) for presentation or further analysis.
 
 💡 Key Insights
 
@@ -98,3 +107,7 @@ This project serves as a sample portfolio to demonstrate my ability to analyze r
 📬 Connect & Collaborate
 
 If you’d like feedback, ideas, or want to discuss this project — let’s connect! 😊
+
+Author: Ajit jha
+
+Contact : [https://ajitjha.netlify.app/]
